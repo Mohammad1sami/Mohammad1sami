@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **DRF, Tailwind css, DSA**
 
+- 📝 I regularly write articles on [https://medium.com/@samishaikh7277](https://medium.com/@samishaikh7277)
+
 - 📫 How to reach me **1694samishaikh@gmail.com**
 
 ### Blogs posts
@@ -16,8 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/samishaikh7277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samishaikh7277" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammad-sami-shaikh-58670621a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-sami-shaikh-58670621a" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/user:21599499" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/user:21599499" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohammad-sami-shaikh-58670621a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-sami-shaikh-58670621a" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/user:21599499" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:21599499" height="30" width="40" /></a>
 <a href="https://medium.com/@samishaikh7277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@samishaikh7277" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/gleam_vista_70" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gleam_vista_70" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/1694samishaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="1694samishaikh" height="30" width="40" /></a>
