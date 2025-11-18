@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammad1sami" alt="mohammad1sami" /></a> </p>
 
-- 🌱 I’m currently learning **DRF, Tailwind css, DSA**
+- 🌱 I’m currently learning **DRF, Tailwind css, DSA, Linux**
 
 - 📝 I regularly write articles on [https://medium.com/@samishaikh7277](https://medium.com/@samishaikh7277)
 
