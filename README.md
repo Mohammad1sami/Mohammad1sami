@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Sami Shaikh</h1>
-<h3 align="center">I’m a backend-developer skilled in Python and Django, currently learning DRF and full-stack development. I enjoy building impactful projects and continuously learning new technologies.</h3>
+<h3 align="center">I’m a Software-developer skilled in Python and Django, currently working with Linux operating system. I enjoy building impactful projects and continuously learning new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammad1sami&label=Profile%20views&color=0e75b6&style=flat" alt="mohammad1sami" /> </p>
 
