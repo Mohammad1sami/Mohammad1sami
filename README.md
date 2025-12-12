@@ -59,19 +59,9 @@
 
 <br>
 
-<div align="center">
+<div align="left">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammad1sami&theme=github_dark" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohammad1sami&theme=github_dark" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohammad1sami&theme=github_dark" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohammad1sami&theme=github_dark" />
 </div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammad1sami&show_icons=true&theme=github_dark&hide_border=true" />
-</div>
-
-<br>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad1sami&theme=github-dark&hide_border=true" alt="mohammad1sami" />
-</p>
